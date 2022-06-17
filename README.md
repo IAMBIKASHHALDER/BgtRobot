@@ -56,9 +56,9 @@ KEY = PORT | VALUE = 8443
 # NOTE DON'T FORGET TO ADD DATABASE ADD ON HEROKU POSGRES THEN TURN ON WORKER
 # Thanks To
 ```
- Aditya [  Galaxinarobot Creator ]
-Bikash and Aditya [Fed V2 + Best Source Updater ]
-Bikash and Aditya [ BgtRobot Mentioner @BikashHalder @AdityaHalder]
+[Aditya](https://t.me/adityahalder) [[GalaxinaRobot](https://t.me/galaxinarobot) Creator]
+[Bikash](https://t.me/BikashHalder) and [Aditya](https://t.me/adityahalder) [Fed V2 + Best Source Updater]
+[Bikash](https://t.me/bikashhalder) and [Aditya](https://t.me/adityahalder) [BgtRobot Mentioner [@BikashHalder](https://t.me/bikashhalder) [@AdityaHalder](https://t.me/adityahalder)]
 AND MANY MORES
 ```
 
