@@ -68,9 +68,6 @@ RUN pip3 install --upgrade pip setuptools
 RUN git clone https://github.com/IAMBIKASHHALDER/BgtRobot /root/BgtRobot 
 WORKDIR /root/BgtRobot 
 
-#Copy config file to /root/BgtRobot//BgtRobot 
-COPY ./BgtRobot/sample_config.py ./BgtRobot/config.py* /root/BgtRobot/BgtRobot/
-
 ENV PATH="/home/bot/bin:$PATH"
 
 # Install requirements
