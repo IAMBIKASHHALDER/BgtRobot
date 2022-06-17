@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/marvel
-RUN git clone https://github.com/IAMBIKASHHALDER/BgtRobot/root/BgtRobot 
+RUN git clone https://github.com/IAMBIKASHHALDER/BgtRobot /root/BgtRobot 
 WORKDIR /root/BgtRobot 
 
 #Copy config file to /root/BgtRobot//BgtRobot 
