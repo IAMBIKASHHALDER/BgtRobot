@@ -61,11 +61,11 @@
     },
     "API_ID": {
       "description": "Your account api id",
-      "value": "put your api id here"
+      "value": "API ID"
     },
     "API_HASH": {
       "description": "Your api hash",
-      "value": "put you api hash here"
+      "value": "API HASH"
     },
     "STRICT_GBAN": {
       "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
